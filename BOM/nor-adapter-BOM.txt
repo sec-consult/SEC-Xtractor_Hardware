@@ -1,0 +1,8 @@
+2 x 24-pin connector (65780-060)
+https://www.mouser.at/ProductDetail/Amphenol-FCI/65780-060?qs=sGAEpiMZZMs%252BGHln7q6pm44kDepmYTI8qP0WlbQUT5o%3D
+2 x 2-pin connector (M20-7820246)
+https://www.mouser.at/ProductDetail/Harwin/M20-7820246?qs=sGAEpiMZZMs%252BGHln7q6pmzlZUuX%2F53qjnYGDvtIrNTA%3D
+7 x 8-pin connector (M20-7820842)
+https://www.mouser.at/ProductDetail/Harwin/M20-7820842?qs=sGAEpiMZZMs%252BGHln7q6pmzlZUuX%2F53qjv4D%2FDP12Dqs%3D
+1 x 10nF capacitor (RHSN12A103K0DGH01A)
+https://www.mouser.at/ProductDetail/Murata-Electronics/RHSN12A103K0DGH01A?qs=sGAEpiMZZMt3KoXD5rJ2NwPv70zxIRBT9dgGh6trvwQGhrD%252BYaXpHw%3D%3D
