@@ -1,4 +1,4 @@
-1 x ATXmega128A1U-AU (ATXMEGA128A1U-AU)
+1 x ATXmega128A1U-AU (ATXMEGA128A1U-AU) (U8)
 https://www.mouser.at/ProductDetail/Microchip-Technology-Atmel/ATXMEGA128A1U-AU?qs=sGAEpiMZZMvqv2n3s2xjsVQIURldyCCHj5o%252BGIcWFMA%3D
 1 x FT2232H mini module (FT2232H MINI MODULE)
 https://www.mouser.at/ProductDetail/FTDI/FT2232H-MINI-MODULE?qs=sGAEpiMZZMv6j61pBJaFjAMUiyRxhXdeDbPv2NXF5Nc=
@@ -10,13 +10,13 @@ https://www.mouser.at/ProductDetail/on-semiconductor/bc557ata/?qs=UMEuL5FsraA63L
 https://www.mouser.at/ProductDetail/CUI/TB006-508-02BE?qs=sGAEpiMZZMvPvGwLNS671%2FDanv8Jav06CL3ofJMSvQIa4KQgJ6apyg%3D%3D
 1 x ZIF socket (48-6554-11)
 https://www.mouser.at/ProductDetail/aries-electronics/48-6554-11/?qs=WZRMhwwaLl9UXXVc0idi6w==&countrycode=DE&currencycode=EUR
-3 x 2200uF / 25V electrolytic capacitor (UVZ1E222MHD)
+3 x 2200uF / 25V electrolytic capacitor (UVZ1E222MHD) (C15, C17, C19)
 https://www.mouser.at/ProductDetail/Nichicon/UVZ1E222MHD?qs=sGAEpiMZZMtZ1n0r9vR22Sj%252BosZ9KAFwlC1qUdIpZ44%3D
-1 x 10uF / 160V electrolytic capacitor (ECA-2CHG100B)
+1 x 10uF / 160V electrolytic capacitor (ECA-2CHG100B) (C13)
 https://www.mouser.at/ProductDetail/Panasonic/ECA-2CHG100B?qs=sGAEpiMZZMtZ1n0r9vR22ZGaUoI0JcRffzgfoHCBPQ0%3D
 3 x seven segment display (HDSP-A101)
 https://www.mouser.at/ProductDetail/broadcom-limited/hdsp-a101/?qs=pQfy5%252bKCabI5qaMtuMGFyw==&countrycode=DE&currencycode=EUR
-11 x TXS0108E level shifter (TXS0108EQPWRQ1)
+11 x TXS0108E level shifter (TXS0108EQPWRQ1) (U1-U7)
 https://www.mouser.at/ProductDetail/texas-instruments/txs0108eqpwrq1/?qs=4BLsKd%2FIMYCjsiJW21Sqxg==&countrycode=DE&currencycode=EUR
 1 x variable power regulator (TPS76801QD)
 https://www.mouser.at/ProductDetail/texas-instruments/tps76801qd/?qs=6zVL%252byCp0mosg1NJGZ4e%252bQ==&countrycode=DE&currencycode=EUR
@@ -28,17 +28,17 @@ https://www.mouser.at/ProductDetail/Texas-Instruments/TPS76927DBVR?qs=sGAEpiMZZM
 https://www.mouser.at/ProductDetail/alpha-taiwan/rv09af-40-20k-b5k/?qs=gYx6oXzZQuvSFm4ihSuFBg==&countrycode=DE&currencycode=EUR
 1 x potentiometer linear 100k (RV09AF-40-30K-B100K)
 https://www.mouser.at/ProductDetail/alpha-taiwan/rv09af-40-30k-b100k/?qs=QdePRyQsNGblchT6u7EoTw==&countrycode=DE&currencycode=EUR
-1 x 32.768kHz crystal (ECS-.327-12.5-13X)
+1 x 32.768kHz crystal (ECS-.327-12.5-13X) (OSC1)
 https://www.mouser.at/ProductDetail/ECS/ECS-327-125-13X?qs=sGAEpiMZZMsBj6bBr9Q9ad4hBnzCx5jfiaeOt6mOs6Y%3D
-1 x 16MHz crystal (ECS-92.1-18-4XEN)
+1 x 16MHz crystal (ECS-92.1-18-4XEN) (X1)
 https://www.mouser.at/ProductDetail/ECS/ECS-921-18-4XEN?qs=sGAEpiMZZMsBj6bBr9Q9aZe%2F8LPNkvr5gktEEaMqBjU%3D
 1 x push button (FSM2JH)
 https://www.mouser.at/ProductDetail/TE-Connectivity-Alcoswitch/FSM2JH?qs=sGAEpiMZZMsgGjVA3toVBEITwF%2FqyosAa%2FiWqQFUqPk%3D
 4 x 24-pin header (68002-124HLF)
 https://www.mouser.at/ProductDetail/Amphenol-FCI/68002-124HLF?qs=sGAEpiMZZMs%252BGHln7q6pm2nKUjHUi6l6Y65xMCubHZM%3D
-4 x 18pF capacitor (C315C180K2G5TA)
+4 x 18pF capacitor (C315C180K2G5TA) (C18, C20-22)
 https://www.mouser.at/ProductDetail/KEMET/C315C180K2G5TA?qs=sGAEpiMZZMt3KoXD5rJ2Nx2tF1ppDayJpH9qP1rNf8g%3D
-14 x 10nF capacitor (RHSN12A103K0DGH01A)
+14 x 10nF capacitor (RHSN12A103K0DGH01A) (C1-C12, C14, C16)
 https://www.mouser.at/ProductDetail/Murata-Electronics/RHSN12A103K0DGH01A?qs=sGAEpiMZZMt3KoXD5rJ2NwPv70zxIRBT9dgGh6trvwQGhrD%252BYaXpHw%3D%3D
 2 x bridge (2W10G-E4/51)
 https://www.mouser.at/ProductDetail/Vishay-Semiconductors/2W10G-E4-51?qs=sGAEpiMZZMtQ8nqTKtFS%2FMRt2%2F0z7Bct2zH9CO%252BEpCc%3D
@@ -50,23 +50,23 @@ https://www.mouser.at/ProductDetail/Amphenol-FCI/10129378-902001BLF?qs=sGAEpiMZZ
 https://www.mouser.at/ProductDetail/Amphenol-FCI/10129378-903001BLF?qs=sGAEpiMZZMs%252BGHln7q6pm8Vn94ktop%2FJdr%252BiXezorgLZ2D8puNYzSQ%3D%3D
 2 x 6-pin header (10129378-906001BLF)
 https://www.mouser.at/ProductDetail/Amphenol-FCI/10129378-906001BLF?qs=sGAEpiMZZMs%252BGHln7q6pm8Vn94ktop%2FJ9MG9G6QrRxZjwRGwQH%2FFuQ%3D%3D
-1 x PDI pin header (10129381-906002BLF)
+1 x PDI pin header (10129381-906002BLF) (J12)
 https://www.mouser.at/ProductDetail/Amphenol-FCI/10129381-906002BLF?qs=sGAEpiMZZMs%252BGHln7q6pmzM4rZbcR9MPWBpbhXgGGxGGu6lYnbsb6w%3D%3D
-1 x 15k4 resistor (MBA02040C1542FC100)
+1 x 15k4 resistor (MBA02040C1542FC100) (R33)
 https://www.mouser.at/ProductDetail/Vishay-Beyschlag/MBA02040C1542FC100?qs=Q%252BviyuKCy%2Fy%252BmJd505W6kA==
-3 x 47 resistor (MBB02070C4709FC100)
+3 x 47 resistor (MBB02070C4709FC100) (R41-R43)
 https://www.mouser.at/ProductDetail/Vishay-Beyschlag/MBB02070C4709FC100?qs=%2Fha2pyFadugzklpDcAnfEKpjfOXnWhbhwCCKBbTMCSshmvkOJ7cxtg%3D%3D
-1 x 470 resistor (MRS25000C4700FC100)
+1 x 470 resistor (MRS25000C4700FC100) (R39)
 https://www.mouser.at/ProductDetail/Vishay-BC-Components/MRS25000C4700FC100?qs=sGAEpiMZZMu61qfTUdNhGxbuVFuwLImXZfsCOyVyG34%3D
-1 x 390 resistor (CCF07390RJKE36)
+1 x 390 resistor (CCF07390RJKE36) (R40)
 https://www.mouser.at/ProductDetail/Vishay-Dale/CCF07390RJKE36?qs=sGAEpiMZZMu61qfTUdNhG1Ko2eyrHOFfKed1zdjv2nE%3D
-2 x 30k1 resistor (MC01W0805130K1)
+2 x 30k1 resistor (MC01W0805130K1) (R32, R37)
 https://at.farnell.com/multicomp/mc01w0805130k1/res-thick-film-30k1-1-0-1w-0805/dp/2129235
-1 x 100k resistor (MC01W08051100K)
+1 x 100k resistor (MC01W08051100K) (R38)
 https://at.farnell.com/multicomp/mc01w08051100k/dickschichtwiderstand-100k-1-0/dp/2129276?st=mc01w08051100k
-8 x 10k resistor (MC01W0805110K)
+8 x 10k resistor (MC01W0805110K) (R1-R6, R29, R30)
 https://at.farnell.com/multicomp/mc01w0805110k/dickschichtwiderstand-10k-1-0/dp/2129195?st=mc01w0805110k
-22 x 820 resistor (MC01W08051820R.)
+22 x 820 resistor (MC01W08051820R.) (R7-R28)
 https://at.farnell.com/multicomp/mc01w08051820r/resistor-820r-0-1w-1-0805/dp/1127879?st=MC01W08051820R.
-1 x 250k resistor (ERJ6ENF2493V)
+1 x 250k resistor (ERJ6ENF2493V) (R31)
 https://at.farnell.com/panasonic/erj6enf2493v/dicksch-widerstand-249k-1-0-125w/dp/2057658RL
